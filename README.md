@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Bash, C++ With Data Structure, Web Security 
 - 👯 I’m looking to collaborate on BugBounty Automation Scripts 
 - 📫 How to reach me: @c0nqr0r
-- ⚡ Fun fact: I'm not a Hacker yet :D
+
 
